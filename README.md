@@ -1,4 +1,4 @@
-# minimal-reproduction-template
+# 33446
 
 First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
 
@@ -6,12 +6,12 @@ Then replace the current `h1` with the Renovate Issue/Discussion number.
 
 ## Current behavior
 
-Explain the current behavior here.
+Renovate detects an update for puppet_litmus, but does not make changes.
 
 ## Expected behavior
 
-Explain the expected behavior here.
+Renovate performs the update.
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+https://github.com/renovatebot/renovate/discussions/33446
